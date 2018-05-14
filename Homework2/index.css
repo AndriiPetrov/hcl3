@@ -1,0 +1,15 @@
+#source{
+    background-color: red;
+    width:100px;
+    height: 100px;
+    cursor: move;
+    color: black;
+}
+#target{
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    margin-bottom: 5px;
+    color: white;
+}
